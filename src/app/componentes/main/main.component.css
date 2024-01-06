@@ -1,0 +1,32 @@
+.main {
+  justify-content: space-around;
+  margin-inline: -280px;
+  position: relative;
+}
+
+.input {
+  padding: 10px 30px;
+  min-width: 320px;
+}
+
+input,
+select {
+  border: none;
+}
+
+select {
+  padding: 10px 20px;
+}
+
+.main.flex-center img {
+  position: absolute;
+  left: 630px;
+}
+
+.main__container {
+  margin-top: 50px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  flex-shrink: 4;
+  justify-content: space-evenly;
+}

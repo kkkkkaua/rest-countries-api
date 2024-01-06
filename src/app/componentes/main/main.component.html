@@ -1,0 +1,19 @@
+<section class="main flex-center">
+  <div class="flex-center">
+    <input class="input" type="search" placeholder="Search for a country..." />
+    <img src="../../../assets/img/Search_light.svg" alt="" />
+  </div>
+  <select name="" id="">
+    <option value="" disabled selected>Filter by region</option>
+    <option value="">Africa</option>
+    <option value="">America</option>
+    <option value="">Asia</option>
+    <option value="">Europe</option>
+    <option value="">Oceania</option>
+  </select>
+</section>
+<div class="main__container flex-center">
+  <div *ngFor="let pais of this.listaPaises">
+    <app-country [country]="pais"> </app-country>
+  </div>
+</div>

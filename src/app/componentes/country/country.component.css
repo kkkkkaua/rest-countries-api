@@ -1,0 +1,27 @@
+.card {
+  display: flex;
+  align-items: start;
+  justify-content: center;
+  width: 300px;
+  height: 300px;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+.card__nome {
+  margin-block: 15px;
+}
+
+.card img {
+  border-radius: 10px 10px 0 0;
+  height: 50%;
+  width: 100%;
+}
+
+.container {
+  padding-left: 20px;
+}
+
+.card__paragrafo {
+  margin-block: 10px;
+}

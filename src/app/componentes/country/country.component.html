@@ -1,0 +1,16 @@
+<div class="card">
+  <img src="{{ country.flags.png }}" alt="Bandeira de {{ country.name }}" />
+  <div class="container">
+    <h2 class="card__nome">{{ country.name }}</h2>
+    <p class="card__paragrafo">
+      <b class="card__paragrafo__titulo">Population:</b>
+      {{ country.population }}
+    </p>
+    <p class="card__paragrafo">
+      <b class="card__paragrafo__titulo">Region:</b> {{ country.region }}
+    </p>
+    <p class="card__paragrafo">
+      <b class="card__paragrafo__titulo">Capital:</b> {{ country.capital }}
+    </p>
+  </div>
+</div>
