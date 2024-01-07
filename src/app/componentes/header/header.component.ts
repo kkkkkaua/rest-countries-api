@@ -16,4 +16,8 @@ export class HeaderComponent implements OnInit {
     this.luaAtiva = !this.luaAtiva;
     return this.luaAtiva ? 'ativa' : 'inativa';
   }
+
+  verificaLua(): string {
+    return this.luaAtiva ? 'luaAtiva' : 'luaInativa';
+  }
 }

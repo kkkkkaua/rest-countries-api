@@ -5,6 +5,23 @@
   margin-bottom: 60px;
 }
 
+span.luaAtiva,
+span.luaInativa {
+  height: 20px;
+  width: 20px;
+}
+
+.luaAtiva {
+  background: url(../../../assets/img/Moon_ativa.svg);
+  background-position: center;
+}
+
+.luaInativa {
+  background: url(../../../assets/img/Moon_inativa.svg);
+  background-position: center;
+  background-size: cover;
+}
+
 .titulo {
   font-size: 24px;
 }
