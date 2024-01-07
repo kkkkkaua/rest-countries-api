@@ -17,4 +17,13 @@ export class MainComponent implements OnInit {
       .listar()
       .subscribe((listaPaises) => (this.listaPaises = listaPaises));
   }
+
+  barraDePesquisa() {
+    let campoDeBusca: HTMLInputElement | null =
+      document.querySelector('.input');
+    let query = campoDeBusca?.value;
+    this.service
+      .listar(query)
+      .subscribe((paises) => (this.listaPaises = paises));
+  }
 }

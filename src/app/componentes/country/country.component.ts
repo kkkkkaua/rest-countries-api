@@ -7,7 +7,7 @@ import { Country } from 'src/app/country';
   styleUrls: ['./country.component.css'],
 })
 export class CountryComponent implements OnInit {
-  @Input() country: Country = {
+  @Input() pais: Country = {
     name: '',
     population: 0,
     region: '',
