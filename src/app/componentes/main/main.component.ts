@@ -9,7 +9,7 @@ import { Country } from 'src/app/country';
 })
 export class MainComponent implements OnInit {
   listaPaises: Array<Country> = [];
-
+  estaEmDarkMode: boolean = false;
   valorInputSelect: string = '';
   campoSelect: HTMLSelectElement | null = null;
   campoBusca: HTMLInputElement | null = null;
@@ -23,6 +23,14 @@ export class MainComponent implements OnInit {
 
     this.campoSelect = document.querySelector('select')!;
     this.campoBusca = document.querySelector('.input')!;
+  }
+
+  verificaSeEstaEmDarkMode(): boolean {
+    return document.querySelector('body')?.classList.contains('dark-mode')!;
+  }
+
+  alteraIconeBusca(): string {
+    return this.verificaSeEstaEmDarkMode() ? 'iconeDark' : 'iconeLight';
   }
 
   executaBuscaFeitaNoCampo(): void {

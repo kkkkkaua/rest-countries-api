@@ -11,11 +11,26 @@
 
 input,
 select {
+  outline: none;
   border: none;
 }
 
 select {
   padding: 10px 20px;
+}
+
+.iconeDark {
+  background: center no-repeat url(../../../assets/img/Search_dark.svg);
+}
+
+.iconeLight {
+  background: center no-repeat url(../../../assets/img/Search_light.svg);
+}
+
+.iconeDark,
+.iconeLight {
+  height: 24px;
+  width: 24px;
 }
 
 .main__container {
@@ -24,10 +39,6 @@ select {
   flex-wrap: wrap;
   flex-shrink: 4;
   justify-content: space-evenly;
-}
-
-.input:focus {
-  outline: none;
 }
 
 @media (max-width: 1070px) {

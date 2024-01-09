@@ -6,10 +6,10 @@
         class="input"
         type="search"
         placeholder="Search for a country..." />
-      <img src="../../../assets/img/Search_light.svg" alt=""
-    /></label>
+      <div [ngClass]="this.alteraIconeBusca()"></div
+    ></label>
   </div>
-  <select (click)="executaBuscaFeitaNoSelect()" name="" id="">
+  <select class="select" (click)="executaBuscaFeitaNoSelect()" name="" id="">
     <option disabled selected>Filter by region</option>
     <option value="all">All</option>
     <option value="Africa">Africa</option>

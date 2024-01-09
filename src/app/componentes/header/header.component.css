@@ -3,7 +3,6 @@
   justify-content: space-between;
   padding-inline: 50px;
   margin-bottom: 60px;
-  margin-top: 25px;
 }
 
 span.luaAtiva,
@@ -13,13 +12,11 @@ span.luaInativa {
 }
 
 .luaAtiva {
-  background: url(../../../assets/img/Moon_ativa.svg);
-  background-position: center;
+  background: center no-repeat url(../../../assets/img/Moon_ativa.svg);
 }
 
 .luaInativa {
-  background: url(../../../assets/img/Moon_inativa.svg);
-  background-position: center;
+  background: center no-repeat url(../../../assets/img/Moon_inativa.svg);
 }
 
 .titulo {

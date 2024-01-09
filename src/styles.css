@@ -16,7 +16,21 @@ hr {
   justify-content: center;
 }
 
-body.dark-mode {
+body.dark-mode,
+body.dark-mode select,
+body.dark-mode .input {
   background-color: black;
   color: white;
+}
+
+body.dark-mode .input::placeholder {
+  color: white;
+}
+
+body.dark-mode .card__paragrafo__titulo {
+  color: gray;
+}
+
+body.dark-mode select {
+  background-color: #474a51;
 }
