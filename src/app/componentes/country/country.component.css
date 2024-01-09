@@ -25,3 +25,9 @@
 .card__paragrafo {
   margin-block: 10px;
 }
+
+@media (max-width: 640px) {
+  .card {
+    width: 250px;
+  }
+}

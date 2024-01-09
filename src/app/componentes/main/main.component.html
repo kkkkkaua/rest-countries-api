@@ -1,15 +1,16 @@
 <section class="main flex-center">
   <div class="flex-center">
-    <input
-      (keyup)="this.barraDePesquisa()"
-      class="input"
-      type="search"
-      placeholder="Search for a country..."
-    />
-    <img src="../../../assets/img/Search_light.svg" alt="" />
+    <label for="" class="flex-center">
+      <input
+        (input)="this.executaBuscaFeitaNoCampo()"
+        class="input"
+        type="search"
+        placeholder="Search for a country..." />
+      <img src="../../../assets/img/Search_light.svg" alt=""
+    /></label>
   </div>
-  <select name="" id="">
-    <option value="" disabled selected>Filter by region</option>
+  <select (click)="executaBuscaFeitaNoSelect()" name="" id="">
+    <option disabled selected>Filter by region</option>
     <option value="Africa">Africa</option>
     <option value="Americas">Americas</option>
     <option value="Asia">Asia</option>

@@ -12,9 +12,8 @@ export class HeaderComponent implements OnInit {
 
   ngOnInit(): void {}
 
-  alteraEstadoDaLua(): string {
+  alteraEstadoDaLua(): void {
     this.luaAtiva = !this.luaAtiva;
-    return this.luaAtiva ? 'ativa' : 'inativa';
   }
 
   verificaLua(): string {

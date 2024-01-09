@@ -3,6 +3,7 @@
   margin: 0;
   font-family: monospace;
   overflow-x: hidden;
+  box-sizing: border-box;
 }
 
 hr {

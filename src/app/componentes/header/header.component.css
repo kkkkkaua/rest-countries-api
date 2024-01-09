@@ -19,7 +19,6 @@ span.luaInativa {
 .luaInativa {
   background: url(../../../assets/img/Moon_inativa.svg);
   background-position: center;
-  background-size: cover;
 }
 
 .titulo {
@@ -29,4 +28,14 @@ span.luaInativa {
 .paragrafo {
   min-width: 100px;
   justify-content: space-around;
+}
+
+@media (max-width: 615px) {
+  .titulo {
+    font-size: 20px;
+  }
+
+  .header {
+    margin-bottom: 30px;
+  }
 }

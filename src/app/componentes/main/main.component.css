@@ -6,13 +6,7 @@
 
 .input {
   padding: 10px 30px;
-  min-width: 320px;
-  border: none;
-  border-radius: 10px;
-}
-
-.input::placeholder {
-  padding-right: 20px;
+  min-width: 250px;
 }
 
 input,
@@ -24,15 +18,31 @@ select {
   padding: 10px 20px;
 }
 
-.main.flex-center img {
-  position: absolute;
-  left: 630px;
-}
-
 .main__container {
   margin-top: 50px;
   flex-direction: row;
   flex-wrap: wrap;
   flex-shrink: 4;
   justify-content: space-evenly;
+}
+
+.input:focus {
+  outline: none;
+}
+
+@media (max-width: 1070px) {
+  .main {
+    flex-direction: column;
+    margin-inline: -50px;
+  }
+
+  select {
+    margin-top: 20px;
+  }
+}
+
+@media (max-width: 615px) {
+  .main__container {
+    margin-top: 25px;
+  }
 }
