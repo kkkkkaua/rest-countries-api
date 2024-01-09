@@ -27,20 +27,36 @@ export class MainComponent implements OnInit {
 
   executaBuscaFeitaNoCampo(): void {
     let query = this.campoBusca!.value;
-    this.service
-      .listar(query)
-      .subscribe((paises) => (this.listaPaises = paises));
+
+    if (this.campoSelect!.value.length > 8) {
+      this.service
+        .listar(query)
+        .subscribe((paises) => (this.listaPaises = paises));
+    } else {
+      this.service
+        .listar(this.campoBusca!.value, this.campoSelect!.value)
+        .subscribe((paises) => (this.listaPaises = paises));
+    }
   }
 
   executaBuscaFeitaNoSelect(): void {
     if (
-      this.valorInputSearch != this.campoSelect!.value &&
+      this.valorInputSearch !== this.campoSelect!.value &&
       this.campoSelect!.value.length <= 8
     ) {
       this.valorInputSearch = this.campoSelect!.value;
 
       this.service
         .listar(this.valorInputSearch)
+        .subscribe((paises) => (this.listaPaises = paises));
+    }
+
+    if (
+      this.campoBusca!.value.trim() !== '' &&
+      this.campoSelect!.value.length <= 8
+    ) {
+      this.service
+        .listar(this.campoBusca!.value, this.campoSelect!.value)
         .subscribe((paises) => (this.listaPaises = paises));
     }
   }
