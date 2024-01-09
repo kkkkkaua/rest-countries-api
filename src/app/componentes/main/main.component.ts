@@ -10,7 +10,7 @@ import { Country } from 'src/app/country';
 export class MainComponent implements OnInit {
   listaPaises: Array<Country> = [];
 
-  valorInputSearch: string = '';
+  valorInputSelect: string = '';
   campoSelect: HTMLSelectElement | null = null;
   campoBusca: HTMLInputElement | null = null;
 
@@ -28,11 +28,14 @@ export class MainComponent implements OnInit {
   executaBuscaFeitaNoCampo(): void {
     let query = this.campoBusca!.value;
 
-    if (this.campoSelect!.value.length > 8) {
+    if (
+      this.campoSelect!.value.length > 8 ||
+      this.campoSelect!.value === 'all'
+    ) {
       this.service
         .listar(query)
         .subscribe((paises) => (this.listaPaises = paises));
-    } else {
+    } else if (this.campoSelect!.value !== 'all') {
       this.service
         .listar(this.campoBusca!.value, this.campoSelect!.value)
         .subscribe((paises) => (this.listaPaises = paises));
@@ -41,23 +44,35 @@ export class MainComponent implements OnInit {
 
   executaBuscaFeitaNoSelect(): void {
     if (
-      this.valorInputSearch !== this.campoSelect!.value &&
-      this.campoSelect!.value.length <= 8
+      this.valorInputSelect !== this.campoSelect!.value &&
+      this.campoSelect!.value.length <= 8 &&
+      this.campoSelect!.value !== 'all'
     ) {
-      this.valorInputSearch = this.campoSelect!.value;
+      this.valorInputSelect = this.campoSelect!.value;
 
       this.service
-        .listar(this.valorInputSearch)
+        .listar(this.valorInputSelect)
         .subscribe((paises) => (this.listaPaises = paises));
     }
 
     if (
       this.campoBusca!.value.trim() !== '' &&
+      this.campoSelect!.value !== 'all' &&
       this.campoSelect!.value.length <= 8
     ) {
       this.service
         .listar(this.campoBusca!.value, this.campoSelect!.value)
         .subscribe((paises) => (this.listaPaises = paises));
     }
+
+    if (this.campoSelect!.value === 'all')
+      if (this.campoBusca!.value.trim() === '')
+        this.service
+          .listar()
+          .subscribe((paises) => (this.listaPaises = paises));
+      else
+        this.service
+          .listar(this.campoBusca!.value)
+          .subscribe((paises) => (this.listaPaises = paises));
   }
 }
