@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  justify-content: center;
+  min-height: 1000px;
+}
+
+img {
+  height: 300px;
+  width: 450px;
+}
+
+.content {
+  display: flex;
+  width: 100vw;
+  justify-content: space-between;
+  align-items: center;
+}
+
+body.dark-mode p {
+  color: white;
+}

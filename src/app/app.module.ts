@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { HeaderComponent } from './componentes/header/header.component';
 import { MainComponent } from './componentes/main/main.component';
 import { CountryComponent } from './componentes/country/country.component';
+import { ViewComponent } from './componentes/country/view/view.component';
 
 @NgModule({
   declarations: [
@@ -13,6 +14,7 @@ import { CountryComponent } from './componentes/country/country.component';
     HeaderComponent,
     MainComponent,
     CountryComponent,
+    ViewComponent,
   ],
   imports: [BrowserModule, AppRoutingModule, HttpClientModule],
   providers: [],

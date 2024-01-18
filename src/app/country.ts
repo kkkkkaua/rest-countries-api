@@ -6,4 +6,7 @@ export interface Country {
   flags: {
     png: string;
   };
+  nativeName: string;
+  subregion: string;
+  topLevelDomain: string;
 }

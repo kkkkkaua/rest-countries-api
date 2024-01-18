@@ -2,7 +2,7 @@
   "countries": [
     {
       "name": "Afghanistan",
-      "topLevelDomain": [".af"],
+      "topLevelDomain": ".af",
       "alpha2Code": "AF",
       "alpha3Code": "AFG",
       "callingCodes": ["93"],
@@ -74,7 +74,7 @@
     },
     {
       "name": "Åland Islands",
-      "topLevelDomain": [".ax"],
+      "topLevelDomain": ".ax",
       "alpha2Code": "AX",
       "alpha3Code": "ALA",
       "callingCodes": ["358"],
@@ -132,7 +132,7 @@
     },
     {
       "name": "Albania",
-      "topLevelDomain": [".al"],
+      "topLevelDomain": ".al",
       "alpha2Code": "AL",
       "alpha3Code": "ALB",
       "callingCodes": ["355"],
@@ -193,7 +193,7 @@
     },
     {
       "name": "Algeria",
-      "topLevelDomain": [".dz"],
+      "topLevelDomain": ".dz",
       "alpha2Code": "DZ",
       "alpha3Code": "DZA",
       "callingCodes": ["213"],
@@ -270,7 +270,7 @@
     },
     {
       "name": "American Samoa",
-      "topLevelDomain": [".as"],
+      "topLevelDomain": ".as",
       "alpha2Code": "AS",
       "alpha3Code": "ASM",
       "callingCodes": ["1"],
@@ -329,7 +329,7 @@
     },
     {
       "name": "Andorra",
-      "topLevelDomain": [".ad"],
+      "topLevelDomain": ".ad",
       "alpha2Code": "AD",
       "alpha3Code": "AND",
       "callingCodes": ["376"],
@@ -383,7 +383,7 @@
     },
     {
       "name": "Angola",
-      "topLevelDomain": [".ao"],
+      "topLevelDomain": ".ao",
       "alpha2Code": "AO",
       "alpha3Code": "AGO",
       "callingCodes": ["244"],
@@ -451,7 +451,7 @@
     },
     {
       "name": "Anguilla",
-      "topLevelDomain": [".ai"],
+      "topLevelDomain": ".ai",
       "alpha2Code": "AI",
       "alpha3Code": "AIA",
       "callingCodes": ["1"],
@@ -503,7 +503,7 @@
     },
     {
       "name": "Antarctica",
-      "topLevelDomain": [".aq"],
+      "topLevelDomain": ".aq",
       "alpha2Code": "AQ",
       "alpha3Code": "ATA",
       "callingCodes": ["672"],
@@ -561,7 +561,7 @@
     },
     {
       "name": "Antigua and Barbuda",
-      "topLevelDomain": [".ag"],
+      "topLevelDomain": ".ag",
       "alpha2Code": "AG",
       "alpha3Code": "ATG",
       "callingCodes": ["1"],
@@ -625,7 +625,7 @@
     },
     {
       "name": "Argentina",
-      "topLevelDomain": [".ar"],
+      "topLevelDomain": ".ar",
       "alpha2Code": "AR",
       "alpha3Code": "ARG",
       "callingCodes": ["54"],
@@ -699,7 +699,7 @@
     },
     {
       "name": "Armenia",
-      "topLevelDomain": [".am"],
+      "topLevelDomain": ".am",
       "alpha2Code": "AM",
       "alpha3Code": "ARM",
       "callingCodes": ["374"],
@@ -766,7 +766,7 @@
     },
     {
       "name": "Aruba",
-      "topLevelDomain": [".aw"],
+      "topLevelDomain": ".aw",
       "alpha2Code": "AW",
       "alpha3Code": "ABW",
       "callingCodes": ["297"],
@@ -825,7 +825,7 @@
     },
     {
       "name": "Australia",
-      "topLevelDomain": [".au"],
+      "topLevelDomain": ".au",
       "alpha2Code": "AU",
       "alpha3Code": "AUS",
       "callingCodes": ["61"],
@@ -888,7 +888,7 @@
     },
     {
       "name": "Austria",
-      "topLevelDomain": [".at"],
+      "topLevelDomain": ".at",
       "alpha2Code": "AT",
       "alpha3Code": "AUT",
       "callingCodes": ["43"],
@@ -949,7 +949,7 @@
     },
     {
       "name": "Azerbaijan",
-      "topLevelDomain": [".az"],
+      "topLevelDomain": ".az",
       "alpha2Code": "AZ",
       "alpha3Code": "AZE",
       "callingCodes": ["994"],
@@ -1008,7 +1008,7 @@
     },
     {
       "name": "Bahamas",
-      "topLevelDomain": [".bs"],
+      "topLevelDomain": ".bs",
       "alpha2Code": "BS",
       "alpha3Code": "BHS",
       "callingCodes": ["1"],
@@ -1072,7 +1072,7 @@
     },
     {
       "name": "Bahrain",
-      "topLevelDomain": [".bh"],
+      "topLevelDomain": ".bh",
       "alpha2Code": "BH",
       "alpha3Code": "BHR",
       "callingCodes": ["973"],
@@ -1136,7 +1136,7 @@
     },
     {
       "name": "Bangladesh",
-      "topLevelDomain": [".bd"],
+      "topLevelDomain": ".bd",
       "alpha2Code": "BD",
       "alpha3Code": "BGD",
       "callingCodes": ["880"],
@@ -1201,7 +1201,7 @@
     },
     {
       "name": "Barbados",
-      "topLevelDomain": [".bb"],
+      "topLevelDomain": ".bb",
       "alpha2Code": "BB",
       "alpha3Code": "BRB",
       "callingCodes": ["1"],
@@ -1265,7 +1265,7 @@
     },
     {
       "name": "Belarus",
-      "topLevelDomain": [".by"],
+      "topLevelDomain": ".by",
       "alpha2Code": "BY",
       "alpha3Code": "BLR",
       "callingCodes": ["375"],
@@ -1346,7 +1346,7 @@
     },
     {
       "name": "Belgium",
-      "topLevelDomain": [".be"],
+      "topLevelDomain": ".be",
       "alpha2Code": "BE",
       "alpha3Code": "BEL",
       "callingCodes": ["32"],
@@ -1429,7 +1429,7 @@
     },
     {
       "name": "Belize",
-      "topLevelDomain": [".bz"],
+      "topLevelDomain": ".bz",
       "alpha2Code": "BZ",
       "alpha3Code": "BLZ",
       "callingCodes": ["501"],
@@ -1507,7 +1507,7 @@
     },
     {
       "name": "Benin",
-      "topLevelDomain": [".bj"],
+      "topLevelDomain": ".bj",
       "alpha2Code": "BJ",
       "alpha3Code": "BEN",
       "callingCodes": ["229"],
@@ -1575,7 +1575,7 @@
     },
     {
       "name": "Bermuda",
-      "topLevelDomain": [".bm"],
+      "topLevelDomain": ".bm",
       "alpha2Code": "BM",
       "alpha3Code": "BMU",
       "callingCodes": ["1"],
@@ -1633,7 +1633,7 @@
     },
     {
       "name": "Bhutan",
-      "topLevelDomain": [".bt"],
+      "topLevelDomain": ".bt",
       "alpha2Code": "BT",
       "alpha3Code": "BTN",
       "callingCodes": ["975"],
@@ -1699,7 +1699,7 @@
     },
     {
       "name": "Bolivia (Plurinational State of)",
-      "topLevelDomain": [".bo"],
+      "topLevelDomain": ".bo",
       "alpha2Code": "BO",
       "alpha3Code": "BOL",
       "callingCodes": ["591"],
@@ -1788,7 +1788,7 @@
     },
     {
       "name": "Bonaire, Sint Eustatius and Saba",
-      "topLevelDomain": [".an", ".nl"],
+      "topLevelDomain": ".an",
       "alpha2Code": "BQ",
       "alpha3Code": "BES",
       "callingCodes": ["599"],
@@ -1840,7 +1840,7 @@
     },
     {
       "name": "Bosnia and Herzegovina",
-      "topLevelDomain": [".ba"],
+      "topLevelDomain": ".ba",
       "alpha2Code": "BA",
       "alpha3Code": "BIH",
       "callingCodes": ["387"],
@@ -1913,7 +1913,7 @@
     },
     {
       "name": "Botswana",
-      "topLevelDomain": [".bw"],
+      "topLevelDomain": ".bw",
       "alpha2Code": "BW",
       "alpha3Code": "BWA",
       "callingCodes": ["267"],
@@ -1987,7 +1987,7 @@
     },
     {
       "name": "Bouvet Island",
-      "topLevelDomain": [".bv"],
+      "topLevelDomain": ".bv",
       "alpha2Code": "BV",
       "alpha3Code": "BVT",
       "callingCodes": ["47"],
@@ -2050,7 +2050,7 @@
     },
     {
       "name": "Brazil",
-      "topLevelDomain": [".br"],
+      "topLevelDomain": ".br",
       "alpha2Code": "BR",
       "alpha3Code": "BRA",
       "callingCodes": ["55"],
@@ -2135,7 +2135,7 @@
     },
     {
       "name": "British Indian Ocean Territory",
-      "topLevelDomain": [".io"],
+      "topLevelDomain": ".io",
       "alpha2Code": "IO",
       "alpha3Code": "IOT",
       "callingCodes": ["246"],
@@ -2200,7 +2200,7 @@
     },
     {
       "name": "United States Minor Outlying Islands",
-      "topLevelDomain": [".us"],
+      "topLevelDomain": ".us",
       "alpha2Code": "UM",
       "alpha3Code": "UMI",
       "callingCodes": ["246"],
@@ -2249,7 +2249,7 @@
     },
     {
       "name": "Virgin Islands (British)",
-      "topLevelDomain": [".vg"],
+      "topLevelDomain": ".vg",
       "alpha2Code": "VG",
       "alpha3Code": "VGB",
       "callingCodes": ["1"],
@@ -2302,7 +2302,7 @@
     },
     {
       "name": "Virgin Islands (U.S.)",
-      "topLevelDomain": [".vi"],
+      "topLevelDomain": ".vi",
       "alpha2Code": "VI",
       "alpha3Code": "VIR",
       "callingCodes": ["1 340"],
@@ -2360,7 +2360,7 @@
     },
     {
       "name": "Brunei Darussalam",
-      "topLevelDomain": [".bn"],
+      "topLevelDomain": ".bn",
       "alpha2Code": "BN",
       "alpha3Code": "BRN",
       "callingCodes": ["673"],
@@ -2425,7 +2425,7 @@
     },
     {
       "name": "Bulgaria",
-      "topLevelDomain": [".bg"],
+      "topLevelDomain": ".bg",
       "alpha2Code": "BG",
       "alpha3Code": "BGR",
       "callingCodes": ["359"],
@@ -2486,7 +2486,7 @@
     },
     {
       "name": "Burkina Faso",
-      "topLevelDomain": [".bf"],
+      "topLevelDomain": ".bf",
       "alpha2Code": "BF",
       "alpha3Code": "BFA",
       "callingCodes": ["226"],
@@ -2560,7 +2560,7 @@
     },
     {
       "name": "Burundi",
-      "topLevelDomain": [".bi"],
+      "topLevelDomain": ".bi",
       "alpha2Code": "BI",
       "alpha3Code": "BDI",
       "callingCodes": ["257"],
@@ -2639,7 +2639,7 @@
     },
     {
       "name": "Cambodia",
-      "topLevelDomain": [".kh"],
+      "topLevelDomain": ".kh",
       "alpha2Code": "KH",
       "alpha3Code": "KHM",
       "callingCodes": ["855"],
@@ -2704,7 +2704,7 @@
     },
     {
       "name": "Cameroon",
-      "topLevelDomain": [".cm"],
+      "topLevelDomain": ".cm",
       "alpha2Code": "CM",
       "alpha3Code": "CMR",
       "callingCodes": ["237"],
@@ -2778,7 +2778,7 @@
     },
     {
       "name": "Canada",
-      "topLevelDomain": [".ca"],
+      "topLevelDomain": ".ca",
       "alpha2Code": "CA",
       "alpha3Code": "CAN",
       "callingCodes": ["1"],
@@ -2856,7 +2856,7 @@
     },
     {
       "name": "Cabo Verde",
-      "topLevelDomain": [".cv"],
+      "topLevelDomain": ".cv",
       "alpha2Code": "CV",
       "alpha3Code": "CPV",
       "callingCodes": ["238"],
@@ -2927,7 +2927,7 @@
     },
     {
       "name": "Cayman Islands",
-      "topLevelDomain": [".ky"],
+      "topLevelDomain": ".ky",
       "alpha2Code": "KY",
       "alpha3Code": "CYM",
       "callingCodes": ["1"],
@@ -2980,7 +2980,7 @@
     },
     {
       "name": "Central African Republic",
-      "topLevelDomain": [".cf"],
+      "topLevelDomain": ".cf",
       "alpha2Code": "CF",
       "alpha3Code": "CAF",
       "callingCodes": ["236"],
@@ -3058,7 +3058,7 @@
     },
     {
       "name": "Chad",
-      "topLevelDomain": [".td"],
+      "topLevelDomain": ".td",
       "alpha2Code": "TD",
       "alpha3Code": "TCD",
       "callingCodes": ["235"],
@@ -3137,7 +3137,7 @@
     },
     {
       "name": "Chile",
-      "topLevelDomain": [".cl"],
+      "topLevelDomain": ".cl",
       "alpha2Code": "CL",
       "alpha3Code": "CHL",
       "callingCodes": ["56"],
@@ -3210,7 +3210,7 @@
     },
     {
       "name": "China",
-      "topLevelDomain": [".cn"],
+      "topLevelDomain": ".cn",
       "alpha2Code": "CN",
       "alpha3Code": "CHN",
       "callingCodes": ["86"],
@@ -3290,7 +3290,7 @@
     },
     {
       "name": "Christmas Island",
-      "topLevelDomain": [".cx"],
+      "topLevelDomain": ".cx",
       "alpha2Code": "CX",
       "alpha3Code": "CXR",
       "callingCodes": ["61"],
@@ -3342,7 +3342,7 @@
     },
     {
       "name": "Cocos (Keeling) Islands",
-      "topLevelDomain": [".cc"],
+      "topLevelDomain": ".cc",
       "alpha2Code": "CC",
       "alpha3Code": "CCK",
       "callingCodes": ["61"],
@@ -3398,7 +3398,7 @@
     },
     {
       "name": "Colombia",
-      "topLevelDomain": [".co"],
+      "topLevelDomain": ".co",
       "alpha2Code": "CO",
       "alpha3Code": "COL",
       "callingCodes": ["57"],
@@ -3471,7 +3471,7 @@
     },
     {
       "name": "Comoros",
-      "topLevelDomain": [".km"],
+      "topLevelDomain": ".km",
       "alpha2Code": "KM",
       "alpha3Code": "COM",
       "callingCodes": ["269"],
@@ -3559,7 +3559,7 @@
     },
     {
       "name": "Congo",
-      "topLevelDomain": [".cg"],
+      "topLevelDomain": ".cg",
       "alpha2Code": "CG",
       "alpha3Code": "COG",
       "callingCodes": ["242"],
@@ -3633,7 +3633,7 @@
     },
     {
       "name": "Congo (Democratic Republic of the)",
-      "topLevelDomain": [".cd"],
+      "topLevelDomain": ".cd",
       "alpha2Code": "CD",
       "alpha3Code": "COD",
       "callingCodes": ["243"],
@@ -3735,7 +3735,7 @@
     },
     {
       "name": "Cook Islands",
-      "topLevelDomain": [".ck"],
+      "topLevelDomain": ".ck",
       "alpha2Code": "CK",
       "alpha3Code": "COK",
       "callingCodes": ["682"],
@@ -3798,7 +3798,7 @@
     },
     {
       "name": "Costa Rica",
-      "topLevelDomain": [".cr"],
+      "topLevelDomain": ".cr",
       "alpha2Code": "CR",
       "alpha3Code": "CRI",
       "callingCodes": ["506"],
@@ -3865,7 +3865,7 @@
     },
     {
       "name": "Croatia",
-      "topLevelDomain": [".hr"],
+      "topLevelDomain": ".hr",
       "alpha2Code": "HR",
       "alpha3Code": "HRV",
       "callingCodes": ["385"],
@@ -3931,7 +3931,7 @@
     },
     {
       "name": "Cuba",
-      "topLevelDomain": [".cu"],
+      "topLevelDomain": ".cu",
       "alpha2Code": "CU",
       "alpha3Code": "CUB",
       "callingCodes": ["53"],
@@ -3989,7 +3989,7 @@
     },
     {
       "name": "Curaçao",
-      "topLevelDomain": [".cw"],
+      "topLevelDomain": ".cw",
       "alpha2Code": "CW",
       "alpha3Code": "CUW",
       "callingCodes": ["599"],
@@ -4060,7 +4060,7 @@
     },
     {
       "name": "Cyprus",
-      "topLevelDomain": [".cy"],
+      "topLevelDomain": ".cy",
       "alpha2Code": "CY",
       "alpha3Code": "CYP",
       "callingCodes": ["357"],
@@ -4140,7 +4140,7 @@
     },
     {
       "name": "Czech Republic",
-      "topLevelDomain": [".cz"],
+      "topLevelDomain": ".cz",
       "alpha2Code": "CZ",
       "alpha3Code": "CZE",
       "callingCodes": ["420"],
@@ -4206,7 +4206,7 @@
     },
     {
       "name": "Denmark",
-      "topLevelDomain": [".dk"],
+      "topLevelDomain": ".dk",
       "alpha2Code": "DK",
       "alpha3Code": "DNK",
       "callingCodes": ["45"],
@@ -4272,7 +4272,7 @@
     },
     {
       "name": "Djibouti",
-      "topLevelDomain": [".dj"],
+      "topLevelDomain": ".dj",
       "alpha2Code": "DJ",
       "alpha3Code": "DJI",
       "callingCodes": ["253"],
@@ -4363,7 +4363,7 @@
     },
     {
       "name": "Dominica",
-      "topLevelDomain": [".dm"],
+      "topLevelDomain": ".dm",
       "alpha2Code": "DM",
       "alpha3Code": "DMA",
       "callingCodes": ["1"],
@@ -4421,7 +4421,7 @@
     },
     {
       "name": "Dominican Republic",
-      "topLevelDomain": [".do"],
+      "topLevelDomain": ".do",
       "alpha2Code": "DO",
       "alpha3Code": "DOM",
       "callingCodes": ["1"],
@@ -4493,7 +4493,7 @@
     },
     {
       "name": "Ecuador",
-      "topLevelDomain": [".ec"],
+      "topLevelDomain": ".ec",
       "alpha2Code": "EC",
       "alpha3Code": "ECU",
       "callingCodes": ["593"],
@@ -4561,7 +4561,7 @@
     },
     {
       "name": "Egypt",
-      "topLevelDomain": [".eg"],
+      "topLevelDomain": ".eg",
       "alpha2Code": "EG",
       "alpha3Code": "EGY",
       "callingCodes": ["20"],
@@ -4638,7 +4638,7 @@
     },
     {
       "name": "El Salvador",
-      "topLevelDomain": [".sv"],
+      "topLevelDomain": ".sv",
       "alpha2Code": "SV",
       "alpha3Code": "SLV",
       "callingCodes": ["503"],
@@ -4705,7 +4705,7 @@
     },
     {
       "name": "Equatorial Guinea",
-      "topLevelDomain": [".gq"],
+      "topLevelDomain": ".gq",
       "alpha2Code": "GQ",
       "alpha3Code": "GNQ",
       "callingCodes": ["240"],
@@ -4795,7 +4795,7 @@
     },
     {
       "name": "Eritrea",
-      "topLevelDomain": [".er"],
+      "topLevelDomain": ".er",
       "alpha2Code": "ER",
       "alpha3Code": "ERI",
       "callingCodes": ["291"],
@@ -4913,7 +4913,7 @@
     },
     {
       "name": "Estonia",
-      "topLevelDomain": [".ee"],
+      "topLevelDomain": ".ee",
       "alpha2Code": "EE",
       "alpha3Code": "EST",
       "callingCodes": ["372"],
@@ -4974,7 +4974,7 @@
     },
     {
       "name": "Ethiopia",
-      "topLevelDomain": [".et"],
+      "topLevelDomain": ".et",
       "alpha2Code": "ET",
       "alpha3Code": "ETH",
       "callingCodes": ["251"],
@@ -5047,7 +5047,7 @@
     },
     {
       "name": "Falkland Islands (Malvinas)",
-      "topLevelDomain": [".fk"],
+      "topLevelDomain": ".fk",
       "alpha2Code": "FK",
       "alpha3Code": "FLK",
       "callingCodes": ["500"],
@@ -5112,7 +5112,7 @@
     },
     {
       "name": "Faroe Islands",
-      "topLevelDomain": [".fo"],
+      "topLevelDomain": ".fo",
       "alpha2Code": "FO",
       "alpha3Code": "FRO",
       "callingCodes": ["298"],
@@ -5169,7 +5169,7 @@
     },
     {
       "name": "Fiji",
-      "topLevelDomain": [".fj"],
+      "topLevelDomain": ".fj",
       "alpha2Code": "FJ",
       "alpha3Code": "FJI",
       "callingCodes": ["679"],
@@ -5245,7 +5245,7 @@
     },
     {
       "name": "Finland",
-      "topLevelDomain": [".fi"],
+      "topLevelDomain": ".fi",
       "alpha2Code": "FI",
       "alpha3Code": "FIN",
       "callingCodes": ["358"],
@@ -5318,7 +5318,7 @@
     },
     {
       "name": "France",
-      "topLevelDomain": [".fr"],
+      "topLevelDomain": ".fr",
       "alpha2Code": "FR",
       "alpha3Code": "FRA",
       "callingCodes": ["33"],
@@ -5394,7 +5394,7 @@
     },
     {
       "name": "French Guiana",
-      "topLevelDomain": [".gf"],
+      "topLevelDomain": ".gf",
       "alpha2Code": "GF",
       "alpha3Code": "GUF",
       "callingCodes": ["594"],
@@ -5463,7 +5463,7 @@
     },
     {
       "name": "French Polynesia",
-      "topLevelDomain": [".pf"],
+      "topLevelDomain": ".pf",
       "alpha2Code": "PF",
       "alpha3Code": "PYF",
       "callingCodes": ["689"],
@@ -5520,7 +5520,7 @@
     },
     {
       "name": "French Southern Territories",
-      "topLevelDomain": [".tf"],
+      "topLevelDomain": ".tf",
       "alpha2Code": "TF",
       "alpha3Code": "ATF",
       "callingCodes": ["262"],
@@ -5585,7 +5585,7 @@
     },
     {
       "name": "Gabon",
-      "topLevelDomain": [".ga"],
+      "topLevelDomain": ".ga",
       "alpha2Code": "GA",
       "alpha3Code": "GAB",
       "callingCodes": ["241"],
@@ -5653,7 +5653,7 @@
     },
     {
       "name": "Gambia",
-      "topLevelDomain": [".gm"],
+      "topLevelDomain": ".gm",
       "alpha2Code": "GM",
       "alpha3Code": "GMB",
       "callingCodes": ["220"],
@@ -5721,7 +5721,7 @@
     },
     {
       "name": "Georgia",
-      "topLevelDomain": [".ge"],
+      "topLevelDomain": ".ge",
       "alpha2Code": "GE",
       "alpha3Code": "GEO",
       "callingCodes": ["995"],
@@ -5776,7 +5776,7 @@
     },
     {
       "name": "Germany",
-      "topLevelDomain": [".de"],
+      "topLevelDomain": ".de",
       "alpha2Code": "DE",
       "alpha3Code": "DEU",
       "callingCodes": ["49"],
@@ -5851,7 +5851,7 @@
     },
     {
       "name": "Ghana",
-      "topLevelDomain": [".gh"],
+      "topLevelDomain": ".gh",
       "alpha2Code": "GH",
       "alpha3Code": "GHA",
       "callingCodes": ["233"],
@@ -5919,7 +5919,7 @@
     },
     {
       "name": "Gibraltar",
-      "topLevelDomain": [".gi"],
+      "topLevelDomain": ".gi",
       "alpha2Code": "GI",
       "alpha3Code": "GIB",
       "callingCodes": ["350"],
@@ -5978,7 +5978,7 @@
     },
     {
       "name": "Greece",
-      "topLevelDomain": [".gr"],
+      "topLevelDomain": ".gr",
       "alpha2Code": "GR",
       "alpha3Code": "GRC",
       "callingCodes": ["30"],
@@ -6044,7 +6044,7 @@
     },
     {
       "name": "Greenland",
-      "topLevelDomain": [".gl"],
+      "topLevelDomain": ".gl",
       "alpha2Code": "GL",
       "alpha3Code": "GRL",
       "callingCodes": ["299"],
@@ -6096,7 +6096,7 @@
     },
     {
       "name": "Grenada",
-      "topLevelDomain": [".gd"],
+      "topLevelDomain": ".gd",
       "alpha2Code": "GD",
       "alpha3Code": "GRD",
       "callingCodes": ["1"],
@@ -6160,7 +6160,7 @@
     },
     {
       "name": "Guadeloupe",
-      "topLevelDomain": [".gp"],
+      "topLevelDomain": ".gp",
       "alpha2Code": "GP",
       "alpha3Code": "GLP",
       "callingCodes": ["590"],
@@ -6211,7 +6211,7 @@
     },
     {
       "name": "Guam",
-      "topLevelDomain": [".gu"],
+      "topLevelDomain": ".gu",
       "alpha2Code": "GU",
       "alpha3Code": "GUM",
       "callingCodes": ["1"],
@@ -6276,7 +6276,7 @@
     },
     {
       "name": "Guatemala",
-      "topLevelDomain": [".gt"],
+      "topLevelDomain": ".gt",
       "alpha2Code": "GT",
       "alpha3Code": "GTM",
       "callingCodes": ["502"],
@@ -6339,7 +6339,7 @@
     },
     {
       "name": "Guernsey",
-      "topLevelDomain": [".gg"],
+      "topLevelDomain": ".gg",
       "alpha2Code": "GG",
       "alpha3Code": "GGY",
       "callingCodes": ["44"],
@@ -6402,7 +6402,7 @@
     },
     {
       "name": "Guinea",
-      "topLevelDomain": [".gn"],
+      "topLevelDomain": ".gn",
       "alpha2Code": "GN",
       "alpha3Code": "GIN",
       "callingCodes": ["224"],
@@ -6476,7 +6476,7 @@
     },
     {
       "name": "Guinea-Bissau",
-      "topLevelDomain": [".gw"],
+      "topLevelDomain": ".gw",
       "alpha2Code": "GW",
       "alpha3Code": "GNB",
       "callingCodes": ["245"],
@@ -6548,7 +6548,7 @@
     },
     {
       "name": "Guyana",
-      "topLevelDomain": [".gy"],
+      "topLevelDomain": ".gy",
       "alpha2Code": "GY",
       "alpha3Code": "GUY",
       "callingCodes": ["592"],
@@ -6625,7 +6625,7 @@
     },
     {
       "name": "Haiti",
-      "topLevelDomain": [".ht"],
+      "topLevelDomain": ".ht",
       "alpha2Code": "HT",
       "alpha3Code": "HTI",
       "callingCodes": ["509"],
@@ -6702,7 +6702,7 @@
     },
     {
       "name": "Heard Island and McDonald Islands",
-      "topLevelDomain": [".hm", ".aq"],
+      "topLevelDomain": ".hm",
       "alpha2Code": "HM",
       "alpha3Code": "HMD",
       "callingCodes": ["672"],
@@ -6753,7 +6753,7 @@
     },
     {
       "name": "Vatican City",
-      "topLevelDomain": [".va"],
+      "topLevelDomain": ".va",
       "alpha2Code": "VA",
       "alpha3Code": "VAT",
       "callingCodes": ["379"],
@@ -6824,7 +6824,7 @@
     },
     {
       "name": "Honduras",
-      "topLevelDomain": [".hn"],
+      "topLevelDomain": ".hn",
       "alpha2Code": "HN",
       "alpha3Code": "HND",
       "callingCodes": ["504"],
@@ -6887,7 +6887,7 @@
     },
     {
       "name": "Hungary",
-      "topLevelDomain": [".hu"],
+      "topLevelDomain": ".hu",
       "alpha2Code": "HU",
       "alpha3Code": "HUN",
       "callingCodes": ["36"],
@@ -6948,7 +6948,7 @@
     },
     {
       "name": "Hong Kong",
-      "topLevelDomain": [".hk"],
+      "topLevelDomain": ".hk",
       "alpha2Code": "HK",
       "alpha3Code": "HKG",
       "callingCodes": ["852"],
@@ -7008,7 +7008,7 @@
     },
     {
       "name": "Iceland",
-      "topLevelDomain": [".is"],
+      "topLevelDomain": ".is",
       "alpha2Code": "IS",
       "alpha3Code": "ISL",
       "callingCodes": ["354"],
@@ -7073,7 +7073,7 @@
     },
     {
       "name": "India",
-      "topLevelDomain": [".in"],
+      "topLevelDomain": ".in",
       "alpha2Code": "IN",
       "alpha3Code": "IND",
       "callingCodes": ["91"],
@@ -7140,7 +7140,7 @@
     },
     {
       "name": "Indonesia",
-      "topLevelDomain": [".id"],
+      "topLevelDomain": ".id",
       "alpha2Code": "ID",
       "alpha3Code": "IDN",
       "callingCodes": ["62"],
@@ -7201,7 +7201,7 @@
     },
     {
       "name": "Ivory Coast",
-      "topLevelDomain": [".ci"],
+      "topLevelDomain": ".ci",
       "alpha2Code": "CI",
       "alpha3Code": "CIV",
       "callingCodes": ["225"],
@@ -7274,7 +7274,7 @@
     },
     {
       "name": "Iran (Islamic Republic of)",
-      "topLevelDomain": [".ir"],
+      "topLevelDomain": ".ir",
       "alpha2Code": "IR",
       "alpha3Code": "IRN",
       "callingCodes": ["98"],
@@ -7333,7 +7333,7 @@
     },
     {
       "name": "Iraq",
-      "topLevelDomain": [".iq"],
+      "topLevelDomain": ".iq",
       "alpha2Code": "IQ",
       "alpha3Code": "IRQ",
       "callingCodes": ["964"],
@@ -7405,7 +7405,7 @@
     },
     {
       "name": "Ireland",
-      "topLevelDomain": [".ie"],
+      "topLevelDomain": ".ie",
       "alpha2Code": "IE",
       "alpha3Code": "IRL",
       "callingCodes": ["353"],
@@ -7477,7 +7477,7 @@
     },
     {
       "name": "Isle of Man",
-      "topLevelDomain": [".im"],
+      "topLevelDomain": ".im",
       "alpha2Code": "IM",
       "alpha3Code": "IMN",
       "callingCodes": ["44"],
@@ -7546,7 +7546,7 @@
     },
     {
       "name": "Israel",
-      "topLevelDomain": [".il"],
+      "topLevelDomain": ".il",
       "alpha2Code": "IL",
       "alpha3Code": "ISR",
       "callingCodes": ["972"],
@@ -7607,7 +7607,7 @@
     },
     {
       "name": "Italy",
-      "topLevelDomain": [".it"],
+      "topLevelDomain": ".it",
       "alpha2Code": "IT",
       "alpha3Code": "ITA",
       "callingCodes": ["39"],
@@ -7668,7 +7668,7 @@
     },
     {
       "name": "Jamaica",
-      "topLevelDomain": [".jm"],
+      "topLevelDomain": ".jm",
       "alpha2Code": "JM",
       "alpha3Code": "JAM",
       "callingCodes": ["1"],
@@ -7733,7 +7733,7 @@
     },
     {
       "name": "Japan",
-      "topLevelDomain": [".jp"],
+      "topLevelDomain": ".jp",
       "alpha2Code": "JP",
       "alpha3Code": "JPN",
       "callingCodes": ["81"],
@@ -7787,7 +7787,7 @@
     },
     {
       "name": "Jersey",
-      "topLevelDomain": [".je"],
+      "topLevelDomain": ".je",
       "alpha2Code": "JE",
       "alpha3Code": "JEY",
       "callingCodes": ["44"],
@@ -7855,7 +7855,7 @@
     },
     {
       "name": "Jordan",
-      "topLevelDomain": [".jo"],
+      "topLevelDomain": ".jo",
       "alpha2Code": "JO",
       "alpha3Code": "JOR",
       "callingCodes": ["962"],
@@ -7925,7 +7925,7 @@
     },
     {
       "name": "Kazakhstan",
-      "topLevelDomain": [".kz", ".қаз"],
+      "topLevelDomain": ".kz",
       "alpha2Code": "KZ",
       "alpha3Code": "KAZ",
       "callingCodes": ["76", "77"],
@@ -8002,7 +8002,7 @@
     },
     {
       "name": "Kenya",
-      "topLevelDomain": [".ke"],
+      "topLevelDomain": ".ke",
       "alpha2Code": "KE",
       "alpha3Code": "KEN",
       "callingCodes": ["254"],
@@ -8076,7 +8076,7 @@
     },
     {
       "name": "Kiribati",
-      "topLevelDomain": [".ki"],
+      "topLevelDomain": ".ki",
       "alpha2Code": "KI",
       "alpha3Code": "KIR",
       "callingCodes": ["686"],
@@ -8135,7 +8135,7 @@
     },
     {
       "name": "Kuwait",
-      "topLevelDomain": [".kw"],
+      "topLevelDomain": ".kw",
       "alpha2Code": "KW",
       "alpha3Code": "KWT",
       "callingCodes": ["965"],
@@ -8200,7 +8200,7 @@
     },
     {
       "name": "Kyrgyzstan",
-      "topLevelDomain": [".kg"],
+      "topLevelDomain": ".kg",
       "alpha2Code": "KG",
       "alpha3Code": "KGZ",
       "callingCodes": ["996"],
@@ -8274,7 +8274,7 @@
     },
     {
       "name": "Lao People's Democratic Republic",
-      "topLevelDomain": [".la"],
+      "topLevelDomain": ".la",
       "alpha2Code": "LA",
       "alpha3Code": "LAO",
       "callingCodes": ["856"],
@@ -8341,7 +8341,7 @@
     },
     {
       "name": "Latvia",
-      "topLevelDomain": [".lv"],
+      "topLevelDomain": ".lv",
       "alpha2Code": "LV",
       "alpha3Code": "LVA",
       "callingCodes": ["371"],
@@ -8402,7 +8402,7 @@
     },
     {
       "name": "Lebanon",
-      "topLevelDomain": [".lb"],
+      "topLevelDomain": ".lb",
       "alpha2Code": "LB",
       "alpha3Code": "LBN",
       "callingCodes": ["961"],
@@ -8478,7 +8478,7 @@
     },
     {
       "name": "Lesotho",
-      "topLevelDomain": [".ls"],
+      "topLevelDomain": ".ls",
       "alpha2Code": "LS",
       "alpha3Code": "LSO",
       "callingCodes": ["266"],
@@ -8557,7 +8557,7 @@
     },
     {
       "name": "Liberia",
-      "topLevelDomain": [".lr"],
+      "topLevelDomain": ".lr",
       "alpha2Code": "LR",
       "alpha3Code": "LBR",
       "callingCodes": ["231"],
@@ -8625,7 +8625,7 @@
     },
     {
       "name": "Libya",
-      "topLevelDomain": [".ly"],
+      "topLevelDomain": ".ly",
       "alpha2Code": "LY",
       "alpha3Code": "LBY",
       "callingCodes": ["218"],
@@ -8701,7 +8701,7 @@
     },
     {
       "name": "Liechtenstein",
-      "topLevelDomain": [".li"],
+      "topLevelDomain": ".li",
       "alpha2Code": "LI",
       "alpha3Code": "LIE",
       "callingCodes": ["423"],
@@ -8765,7 +8765,7 @@
     },
     {
       "name": "Lithuania",
-      "topLevelDomain": [".lt"],
+      "topLevelDomain": ".lt",
       "alpha2Code": "LT",
       "alpha3Code": "LTU",
       "callingCodes": ["370"],
@@ -8826,7 +8826,7 @@
     },
     {
       "name": "Luxembourg",
-      "topLevelDomain": [".lu"],
+      "topLevelDomain": ".lu",
       "alpha2Code": "LU",
       "alpha3Code": "LUX",
       "callingCodes": ["352"],
@@ -8905,7 +8905,7 @@
     },
     {
       "name": "Macao",
-      "topLevelDomain": [".mo"],
+      "topLevelDomain": ".mo",
       "alpha2Code": "MO",
       "alpha3Code": "MAC",
       "callingCodes": ["853"],
@@ -8969,7 +8969,7 @@
     },
     {
       "name": "North Macedonia",
-      "topLevelDomain": [".mk"],
+      "topLevelDomain": ".mk",
       "alpha2Code": "MK",
       "alpha3Code": "MKD",
       "callingCodes": ["389"],
@@ -9029,7 +9029,7 @@
     },
     {
       "name": "Madagascar",
-      "topLevelDomain": [".mg"],
+      "topLevelDomain": ".mg",
       "alpha2Code": "MG",
       "alpha3Code": "MDG",
       "callingCodes": ["261"],
@@ -9107,7 +9107,7 @@
     },
     {
       "name": "Malawi",
-      "topLevelDomain": [".mw"],
+      "topLevelDomain": ".mw",
       "alpha2Code": "MW",
       "alpha3Code": "MWI",
       "callingCodes": ["265"],
@@ -9181,7 +9181,7 @@
     },
     {
       "name": "Malaysia",
-      "topLevelDomain": [".my"],
+      "topLevelDomain": ".my",
       "alpha2Code": "MY",
       "alpha3Code": "MYS",
       "callingCodes": ["60"],
@@ -9242,7 +9242,7 @@
     },
     {
       "name": "Maldives",
-      "topLevelDomain": [".mv"],
+      "topLevelDomain": ".mv",
       "alpha2Code": "MV",
       "alpha3Code": "MDV",
       "callingCodes": ["960"],
@@ -9307,7 +9307,7 @@
     },
     {
       "name": "Mali",
-      "topLevelDomain": [".ml"],
+      "topLevelDomain": ".ml",
       "alpha2Code": "ML",
       "alpha3Code": "MLI",
       "callingCodes": ["223"],
@@ -9375,7 +9375,7 @@
     },
     {
       "name": "Malta",
-      "topLevelDomain": [".mt"],
+      "topLevelDomain": ".mt",
       "alpha2Code": "MT",
       "alpha3Code": "MLT",
       "callingCodes": ["356"],
@@ -9441,7 +9441,7 @@
     },
     {
       "name": "Marshall Islands",
-      "topLevelDomain": [".mh"],
+      "topLevelDomain": ".mh",
       "alpha2Code": "MH",
       "alpha3Code": "MHL",
       "callingCodes": ["692"],
@@ -9504,7 +9504,7 @@
     },
     {
       "name": "Martinique",
-      "topLevelDomain": [".mq"],
+      "topLevelDomain": ".mq",
       "alpha2Code": "MQ",
       "alpha3Code": "MTQ",
       "callingCodes": ["596"],
@@ -9555,7 +9555,7 @@
     },
     {
       "name": "Mauritania",
-      "topLevelDomain": [".mr"],
+      "topLevelDomain": ".mr",
       "alpha2Code": "MR",
       "alpha3Code": "MRT",
       "callingCodes": ["222"],
@@ -9636,7 +9636,7 @@
     },
     {
       "name": "Mauritius",
-      "topLevelDomain": [".mu"],
+      "topLevelDomain": ".mu",
       "alpha2Code": "MU",
       "alpha3Code": "MUS",
       "callingCodes": ["230"],
@@ -9703,7 +9703,7 @@
     },
     {
       "name": "Mayotte",
-      "topLevelDomain": [".yt"],
+      "topLevelDomain": ".yt",
       "alpha2Code": "YT",
       "alpha3Code": "MYT",
       "callingCodes": ["262"],
@@ -9767,7 +9767,7 @@
     },
     {
       "name": "Mexico",
-      "topLevelDomain": [".mx"],
+      "topLevelDomain": ".mx",
       "alpha2Code": "MX",
       "alpha3Code": "MEX",
       "callingCodes": ["52"],
@@ -9842,7 +9842,7 @@
     },
     {
       "name": "Micronesia (Federated States of)",
-      "topLevelDomain": [".fm"],
+      "topLevelDomain": ".fm",
       "alpha2Code": "FM",
       "alpha3Code": "FSM",
       "callingCodes": ["691"],
@@ -9896,7 +9896,7 @@
     },
     {
       "name": "Moldova (Republic of)",
-      "topLevelDomain": [".md"],
+      "topLevelDomain": ".md",
       "alpha2Code": "MD",
       "alpha3Code": "MDA",
       "callingCodes": ["373"],
@@ -9957,7 +9957,7 @@
     },
     {
       "name": "Monaco",
-      "topLevelDomain": [".mc"],
+      "topLevelDomain": ".mc",
       "alpha2Code": "MC",
       "alpha3Code": "MCO",
       "callingCodes": ["377"],
@@ -10011,7 +10011,7 @@
     },
     {
       "name": "Mongolia",
-      "topLevelDomain": [".mn"],
+      "topLevelDomain": ".mn",
       "alpha2Code": "MN",
       "alpha3Code": "MNG",
       "callingCodes": ["976"],
@@ -10066,7 +10066,7 @@
     },
     {
       "name": "Montenegro",
-      "topLevelDomain": [".me"],
+      "topLevelDomain": ".me",
       "alpha2Code": "ME",
       "alpha3Code": "MNE",
       "callingCodes": ["382"],
@@ -10145,7 +10145,7 @@
     },
     {
       "name": "Montserrat",
-      "topLevelDomain": [".ms"],
+      "topLevelDomain": ".ms",
       "alpha2Code": "MS",
       "alpha3Code": "MSR",
       "callingCodes": ["1"],
@@ -10208,7 +10208,7 @@
     },
     {
       "name": "Morocco",
-      "topLevelDomain": [".ma"],
+      "topLevelDomain": ".ma",
       "alpha2Code": "MA",
       "alpha3Code": "MAR",
       "callingCodes": ["212"],
@@ -10285,7 +10285,7 @@
     },
     {
       "name": "Mozambique",
-      "topLevelDomain": [".mz"],
+      "topLevelDomain": ".mz",
       "alpha2Code": "MZ",
       "alpha3Code": "MOZ",
       "callingCodes": ["258"],
@@ -10357,7 +10357,7 @@
     },
     {
       "name": "Myanmar",
-      "topLevelDomain": [".mm"],
+      "topLevelDomain": ".mm",
       "alpha2Code": "MM",
       "alpha3Code": "MMR",
       "callingCodes": ["95"],
@@ -10423,7 +10423,7 @@
     },
     {
       "name": "Namibia",
-      "topLevelDomain": [".na"],
+      "topLevelDomain": ".na",
       "alpha2Code": "NA",
       "alpha3Code": "NAM",
       "callingCodes": ["264"],
@@ -10502,7 +10502,7 @@
     },
     {
       "name": "Nauru",
-      "topLevelDomain": [".nr"],
+      "topLevelDomain": ".nr",
       "alpha2Code": "NR",
       "alpha3Code": "NRU",
       "callingCodes": ["674"],
@@ -10568,7 +10568,7 @@
     },
     {
       "name": "Nepal",
-      "topLevelDomain": [".np"],
+      "topLevelDomain": ".np",
       "alpha2Code": "NP",
       "alpha3Code": "NPL",
       "callingCodes": ["977"],
@@ -10633,7 +10633,7 @@
     },
     {
       "name": "Netherlands",
-      "topLevelDomain": [".nl"],
+      "topLevelDomain": ".nl",
       "alpha2Code": "NL",
       "alpha3Code": "NLD",
       "callingCodes": ["31"],
@@ -10694,7 +10694,7 @@
     },
     {
       "name": "New Caledonia",
-      "topLevelDomain": [".nc"],
+      "topLevelDomain": ".nc",
       "alpha2Code": "NC",
       "alpha3Code": "NCL",
       "callingCodes": ["687"],
@@ -10746,7 +10746,7 @@
     },
     {
       "name": "New Zealand",
-      "topLevelDomain": [".nz"],
+      "topLevelDomain": ".nz",
       "alpha2Code": "NZ",
       "alpha3Code": "NZL",
       "callingCodes": ["64"],
@@ -10811,7 +10811,7 @@
     },
     {
       "name": "Nicaragua",
-      "topLevelDomain": [".ni"],
+      "topLevelDomain": ".ni",
       "alpha2Code": "NI",
       "alpha3Code": "NIC",
       "callingCodes": ["505"],
@@ -10874,7 +10874,7 @@
     },
     {
       "name": "Niger",
-      "topLevelDomain": [".ne"],
+      "topLevelDomain": ".ne",
       "alpha2Code": "NE",
       "alpha3Code": "NER",
       "callingCodes": ["227"],
@@ -10947,7 +10947,7 @@
     },
     {
       "name": "Nigeria",
-      "topLevelDomain": [".ng"],
+      "topLevelDomain": ".ng",
       "alpha2Code": "NG",
       "alpha3Code": "NGA",
       "callingCodes": ["234"],
@@ -11020,7 +11020,7 @@
     },
     {
       "name": "Niue",
-      "topLevelDomain": [".nu"],
+      "topLevelDomain": ".nu",
       "alpha2Code": "NU",
       "alpha3Code": "NIU",
       "callingCodes": ["683"],
@@ -11077,7 +11077,7 @@
     },
     {
       "name": "Norfolk Island",
-      "topLevelDomain": [".nf"],
+      "topLevelDomain": ".nf",
       "alpha2Code": "NF",
       "alpha3Code": "NFK",
       "callingCodes": ["672"],
@@ -11133,7 +11133,7 @@
     },
     {
       "name": "Korea (Democratic People's Republic of)",
-      "topLevelDomain": [".kp"],
+      "topLevelDomain": ".kp",
       "alpha2Code": "KP",
       "alpha3Code": "PRK",
       "callingCodes": ["850"],
@@ -11192,7 +11192,7 @@
     },
     {
       "name": "Northern Mariana Islands",
-      "topLevelDomain": [".mp"],
+      "topLevelDomain": ".mp",
       "alpha2Code": "MP",
       "alpha3Code": "MNP",
       "callingCodes": ["1"],
@@ -11254,7 +11254,7 @@
     },
     {
       "name": "Norway",
-      "topLevelDomain": [".no"],
+      "topLevelDomain": ".no",
       "alpha2Code": "NO",
       "alpha3Code": "NOR",
       "callingCodes": ["47"],
@@ -11334,7 +11334,7 @@
     },
     {
       "name": "Oman",
-      "topLevelDomain": [".om"],
+      "topLevelDomain": ".om",
       "alpha2Code": "OM",
       "alpha3Code": "OMN",
       "callingCodes": ["968"],
@@ -11399,7 +11399,7 @@
     },
     {
       "name": "Pakistan",
-      "topLevelDomain": [".pk"],
+      "topLevelDomain": ".pk",
       "alpha2Code": "PK",
       "alpha3Code": "PAK",
       "callingCodes": ["92"],
@@ -11471,7 +11471,7 @@
     },
     {
       "name": "Palau",
-      "topLevelDomain": [".pw"],
+      "topLevelDomain": ".pw",
       "alpha2Code": "PW",
       "alpha3Code": "PLW",
       "callingCodes": ["680"],
@@ -11524,7 +11524,7 @@
     },
     {
       "name": "Palestine, State of",
-      "topLevelDomain": [".ps"],
+      "topLevelDomain": ".ps",
       "alpha2Code": "PS",
       "alpha3Code": "PSE",
       "callingCodes": ["970"],
@@ -11599,7 +11599,7 @@
     },
     {
       "name": "Panama",
-      "topLevelDomain": [".pa"],
+      "topLevelDomain": ".pa",
       "alpha2Code": "PA",
       "alpha3Code": "PAN",
       "callingCodes": ["507"],
@@ -11667,7 +11667,7 @@
     },
     {
       "name": "Papua New Guinea",
-      "topLevelDomain": [".pg"],
+      "topLevelDomain": ".pg",
       "alpha2Code": "PG",
       "alpha3Code": "PNG",
       "callingCodes": ["675"],
@@ -11726,7 +11726,7 @@
     },
     {
       "name": "Paraguay",
-      "topLevelDomain": [".py"],
+      "topLevelDomain": ".py",
       "alpha2Code": "PY",
       "alpha3Code": "PRY",
       "callingCodes": ["595"],
@@ -11805,7 +11805,7 @@
     },
     {
       "name": "Peru",
-      "topLevelDomain": [".pe"],
+      "topLevelDomain": ".pe",
       "alpha2Code": "PE",
       "alpha3Code": "PER",
       "callingCodes": ["51"],
@@ -11878,7 +11878,7 @@
     },
     {
       "name": "Philippines",
-      "topLevelDomain": [".ph"],
+      "topLevelDomain": ".ph",
       "alpha2Code": "PH",
       "alpha3Code": "PHL",
       "callingCodes": ["63"],
@@ -11942,7 +11942,7 @@
     },
     {
       "name": "Pitcairn",
-      "topLevelDomain": [".pn"],
+      "topLevelDomain": ".pn",
       "alpha2Code": "PN",
       "alpha3Code": "PCN",
       "callingCodes": ["64"],
@@ -11999,7 +11999,7 @@
     },
     {
       "name": "Poland",
-      "topLevelDomain": [".pl"],
+      "topLevelDomain": ".pl",
       "alpha2Code": "PL",
       "alpha3Code": "POL",
       "callingCodes": ["48"],
@@ -12060,7 +12060,7 @@
     },
     {
       "name": "Portugal",
-      "topLevelDomain": [".pt"],
+      "topLevelDomain": ".pt",
       "alpha2Code": "PT",
       "alpha3Code": "PRT",
       "callingCodes": ["351"],
@@ -12126,7 +12126,7 @@
     },
     {
       "name": "Puerto Rico",
-      "topLevelDomain": [".pr"],
+      "topLevelDomain": ".pr",
       "alpha2Code": "PR",
       "alpha3Code": "PRI",
       "callingCodes": ["1"],
@@ -12189,7 +12189,7 @@
     },
     {
       "name": "Qatar",
-      "topLevelDomain": [".qa"],
+      "topLevelDomain": ".qa",
       "alpha2Code": "QA",
       "alpha3Code": "QAT",
       "callingCodes": ["974"],
@@ -12254,7 +12254,7 @@
     },
     {
       "name": "Republic of Kosovo",
-      "topLevelDomain": [""],
+      "topLevelDomain": "",
       "alpha2Code": "XK",
       "alpha3Code": "UNK",
       "callingCodes": ["383"],
@@ -12320,7 +12320,7 @@
     },
     {
       "name": "Réunion",
-      "topLevelDomain": [".re"],
+      "topLevelDomain": ".re",
       "alpha2Code": "RE",
       "alpha3Code": "REU",
       "callingCodes": ["262"],
@@ -12384,7 +12384,7 @@
     },
     {
       "name": "Romania",
-      "topLevelDomain": [".ro"],
+      "topLevelDomain": ".ro",
       "alpha2Code": "RO",
       "alpha3Code": "ROU",
       "callingCodes": ["40"],
@@ -12445,7 +12445,7 @@
     },
     {
       "name": "Russian Federation",
-      "topLevelDomain": [".ru"],
+      "topLevelDomain": ".ru",
       "alpha2Code": "RU",
       "alpha3Code": "RUS",
       "callingCodes": ["7"],
@@ -12538,7 +12538,7 @@
     },
     {
       "name": "Rwanda",
-      "topLevelDomain": [".rw"],
+      "topLevelDomain": ".rw",
       "alpha2Code": "RW",
       "alpha3Code": "RWA",
       "callingCodes": ["250"],
@@ -12623,7 +12623,7 @@
     },
     {
       "name": "Saint Barthélemy",
-      "topLevelDomain": [".bl"],
+      "topLevelDomain": ".bl",
       "alpha2Code": "BL",
       "alpha3Code": "BLM",
       "callingCodes": ["590"],
@@ -12680,7 +12680,7 @@
     },
     {
       "name": "Saint Helena, Ascension and Tristan da Cunha",
-      "topLevelDomain": [".sh"],
+      "topLevelDomain": ".sh",
       "alpha2Code": "SH",
       "alpha3Code": "SHN",
       "callingCodes": ["290"],
@@ -12744,7 +12744,7 @@
     },
     {
       "name": "Saint Kitts and Nevis",
-      "topLevelDomain": [".kn"],
+      "topLevelDomain": ".kn",
       "alpha2Code": "KN",
       "alpha3Code": "KNA",
       "callingCodes": ["1"],
@@ -12808,7 +12808,7 @@
     },
     {
       "name": "Saint Lucia",
-      "topLevelDomain": [".lc"],
+      "topLevelDomain": ".lc",
       "alpha2Code": "LC",
       "alpha3Code": "LCA",
       "callingCodes": ["1"],
@@ -12873,7 +12873,7 @@
     },
     {
       "name": "Saint Martin (French part)",
-      "topLevelDomain": [".mf", ".fr", ".gp"],
+      "topLevelDomain": ".mf",
       "alpha2Code": "MF",
       "alpha3Code": "MAF",
       "callingCodes": ["590"],
@@ -12942,7 +12942,7 @@
     },
     {
       "name": "Saint Pierre and Miquelon",
-      "topLevelDomain": [".pm"],
+      "topLevelDomain": ".pm",
       "alpha2Code": "PM",
       "alpha3Code": "SPM",
       "callingCodes": ["508"],
@@ -12997,7 +12997,7 @@
     },
     {
       "name": "Saint Vincent and the Grenadines",
-      "topLevelDomain": [".vc"],
+      "topLevelDomain": ".vc",
       "alpha2Code": "VC",
       "alpha3Code": "VCT",
       "callingCodes": ["1"],
@@ -13061,7 +13061,7 @@
     },
     {
       "name": "Samoa",
-      "topLevelDomain": [".ws"],
+      "topLevelDomain": ".ws",
       "alpha2Code": "WS",
       "alpha3Code": "WSM",
       "callingCodes": ["685"],
@@ -13125,7 +13125,7 @@
     },
     {
       "name": "San Marino",
-      "topLevelDomain": [".sm"],
+      "topLevelDomain": ".sm",
       "alpha2Code": "SM",
       "alpha3Code": "SMR",
       "callingCodes": ["378"],
@@ -13183,7 +13183,7 @@
     },
     {
       "name": "Sao Tome and Principe",
-      "topLevelDomain": [".st"],
+      "topLevelDomain": ".st",
       "alpha2Code": "ST",
       "alpha3Code": "STP",
       "callingCodes": ["239"],
@@ -13254,7 +13254,7 @@
     },
     {
       "name": "Saudi Arabia",
-      "topLevelDomain": [".sa"],
+      "topLevelDomain": ".sa",
       "alpha2Code": "SA",
       "alpha3Code": "SAU",
       "callingCodes": ["966"],
@@ -13323,7 +13323,7 @@
     },
     {
       "name": "Senegal",
-      "topLevelDomain": [".sn"],
+      "topLevelDomain": ".sn",
       "alpha2Code": "SN",
       "alpha3Code": "SEN",
       "callingCodes": ["221"],
@@ -13391,7 +13391,7 @@
     },
     {
       "name": "Serbia",
-      "topLevelDomain": [".rs"],
+      "topLevelDomain": ".rs",
       "alpha2Code": "RS",
       "alpha3Code": "SRB",
       "callingCodes": ["381"],
@@ -13458,7 +13458,7 @@
     },
     {
       "name": "Seychelles",
-      "topLevelDomain": [".sc"],
+      "topLevelDomain": ".sc",
       "alpha2Code": "SC",
       "alpha3Code": "SYC",
       "callingCodes": ["248"],
@@ -13536,7 +13536,7 @@
     },
     {
       "name": "Sierra Leone",
-      "topLevelDomain": [".sl"],
+      "topLevelDomain": ".sl",
       "alpha2Code": "SL",
       "alpha3Code": "SLE",
       "callingCodes": ["232"],
@@ -13604,7 +13604,7 @@
     },
     {
       "name": "Singapore",
-      "topLevelDomain": [".sg"],
+      "topLevelDomain": ".sg",
       "alpha2Code": "SG",
       "alpha3Code": "SGP",
       "callingCodes": ["65"],
@@ -13681,7 +13681,7 @@
     },
     {
       "name": "Sint Maarten (Dutch part)",
-      "topLevelDomain": [".sx"],
+      "topLevelDomain": ".sx",
       "alpha2Code": "SX",
       "alpha3Code": "SXM",
       "callingCodes": ["1"],
@@ -13740,7 +13740,7 @@
     },
     {
       "name": "Slovakia",
-      "topLevelDomain": [".sk"],
+      "topLevelDomain": ".sk",
       "alpha2Code": "SK",
       "alpha3Code": "SVK",
       "callingCodes": ["421"],
@@ -13801,7 +13801,7 @@
     },
     {
       "name": "Slovenia",
-      "topLevelDomain": [".si"],
+      "topLevelDomain": ".si",
       "alpha2Code": "SI",
       "alpha3Code": "SVN",
       "callingCodes": ["386"],
@@ -13862,7 +13862,7 @@
     },
     {
       "name": "Solomon Islands",
-      "topLevelDomain": [".sb"],
+      "topLevelDomain": ".sb",
       "alpha2Code": "SB",
       "alpha3Code": "SLB",
       "callingCodes": ["677"],
@@ -13916,7 +13916,7 @@
     },
     {
       "name": "Somalia",
-      "topLevelDomain": [".so"],
+      "topLevelDomain": ".so",
       "alpha2Code": "SO",
       "alpha3Code": "SOM",
       "callingCodes": ["252"],
@@ -14005,7 +14005,7 @@
     },
     {
       "name": "South Africa",
-      "topLevelDomain": [".za"],
+      "topLevelDomain": ".za",
       "alpha2Code": "ZA",
       "alpha3Code": "ZAF",
       "callingCodes": ["27"],
@@ -14127,7 +14127,7 @@
     },
     {
       "name": "South Georgia and the South Sandwich Islands",
-      "topLevelDomain": [".gs"],
+      "topLevelDomain": ".gs",
       "alpha2Code": "GS",
       "alpha3Code": "SGS",
       "callingCodes": ["500"],
@@ -14191,7 +14191,7 @@
     },
     {
       "name": "Korea (Republic of)",
-      "topLevelDomain": [".kr"],
+      "topLevelDomain": ".kr",
       "alpha2Code": "KR",
       "alpha3Code": "KOR",
       "callingCodes": ["82"],
@@ -14246,7 +14246,7 @@
     },
     {
       "name": "Spain",
-      "topLevelDomain": [".es"],
+      "topLevelDomain": ".es",
       "alpha2Code": "ES",
       "alpha3Code": "ESP",
       "callingCodes": ["34"],
@@ -14307,7 +14307,7 @@
     },
     {
       "name": "Sri Lanka",
-      "topLevelDomain": [".lk"],
+      "topLevelDomain": ".lk",
       "alpha2Code": "LK",
       "alpha3Code": "LKA",
       "callingCodes": ["94"],
@@ -14378,7 +14378,7 @@
     },
     {
       "name": "Sudan",
-      "topLevelDomain": [".sd"],
+      "topLevelDomain": ".sd",
       "alpha2Code": "SD",
       "alpha3Code": "SDN",
       "callingCodes": ["249"],
@@ -14461,7 +14461,7 @@
     },
     {
       "name": "South Sudan",
-      "topLevelDomain": [".ss"],
+      "topLevelDomain": ".ss",
       "alpha2Code": "SS",
       "alpha3Code": "SSD",
       "callingCodes": ["211"],
@@ -14529,7 +14529,7 @@
     },
     {
       "name": "Suriname",
-      "topLevelDomain": [".sr"],
+      "topLevelDomain": ".sr",
       "alpha2Code": "SR",
       "alpha3Code": "SUR",
       "callingCodes": ["597"],
@@ -14612,7 +14612,7 @@
     },
     {
       "name": "Svalbard and Jan Mayen",
-      "topLevelDomain": [".sj"],
+      "topLevelDomain": ".sj",
       "alpha2Code": "SJ",
       "alpha3Code": "SJM",
       "callingCodes": ["47"],
@@ -14663,7 +14663,7 @@
     },
     {
       "name": "Swaziland",
-      "topLevelDomain": [".sz"],
+      "topLevelDomain": ".sz",
       "alpha2Code": "SZ",
       "alpha3Code": "SWZ",
       "callingCodes": ["268"],
@@ -14744,7 +14744,7 @@
     },
     {
       "name": "Sweden",
-      "topLevelDomain": [".se"],
+      "topLevelDomain": ".se",
       "alpha2Code": "SE",
       "alpha3Code": "SWE",
       "callingCodes": ["46"],
@@ -14805,7 +14805,7 @@
     },
     {
       "name": "Switzerland",
-      "topLevelDomain": [".ch"],
+      "topLevelDomain": ".ch",
       "alpha2Code": "CH",
       "alpha3Code": "CHE",
       "callingCodes": ["41"],
@@ -14889,7 +14889,7 @@
     },
     {
       "name": "Syrian Arab Republic",
-      "topLevelDomain": [".sy"],
+      "topLevelDomain": ".sy",
       "alpha2Code": "SY",
       "alpha3Code": "SYR",
       "callingCodes": ["963"],
@@ -14959,7 +14959,7 @@
     },
     {
       "name": "Taiwan",
-      "topLevelDomain": [".tw"],
+      "topLevelDomain": ".tw",
       "alpha2Code": "TW",
       "alpha3Code": "TWN",
       "callingCodes": ["886"],
@@ -15018,7 +15018,7 @@
     },
     {
       "name": "Tajikistan",
-      "topLevelDomain": [".tj"],
+      "topLevelDomain": ".tj",
       "alpha2Code": "TJ",
       "alpha3Code": "TJK",
       "callingCodes": ["992"],
@@ -15085,7 +15085,7 @@
     },
     {
       "name": "Tanzania, United Republic of",
-      "topLevelDomain": [".tz"],
+      "topLevelDomain": ".tz",
       "alpha2Code": "TZ",
       "alpha3Code": "TZA",
       "callingCodes": ["255"],
@@ -15163,7 +15163,7 @@
     },
     {
       "name": "Thailand",
-      "topLevelDomain": [".th"],
+      "topLevelDomain": ".th",
       "alpha2Code": "TH",
       "alpha3Code": "THA",
       "callingCodes": ["66"],
@@ -15231,7 +15231,7 @@
     },
     {
       "name": "Timor-Leste",
-      "topLevelDomain": [".tl"],
+      "topLevelDomain": ".tl",
       "alpha2Code": "TL",
       "alpha3Code": "TLS",
       "callingCodes": ["670"],
@@ -15292,7 +15292,7 @@
     },
     {
       "name": "Togo",
-      "topLevelDomain": [".tg"],
+      "topLevelDomain": ".tg",
       "alpha2Code": "TG",
       "alpha3Code": "TGO",
       "callingCodes": ["228"],
@@ -15365,7 +15365,7 @@
     },
     {
       "name": "Tokelau",
-      "topLevelDomain": [".tk"],
+      "topLevelDomain": ".tk",
       "alpha2Code": "TK",
       "alpha3Code": "TKL",
       "callingCodes": ["690"],
@@ -15417,7 +15417,7 @@
     },
     {
       "name": "Tonga",
-      "topLevelDomain": [".to"],
+      "topLevelDomain": ".to",
       "alpha2Code": "TO",
       "alpha3Code": "TON",
       "callingCodes": ["676"],
@@ -15477,7 +15477,7 @@
     },
     {
       "name": "Trinidad and Tobago",
-      "topLevelDomain": [".tt"],
+      "topLevelDomain": ".tt",
       "alpha2Code": "TT",
       "alpha3Code": "TTO",
       "callingCodes": ["1"],
@@ -15542,7 +15542,7 @@
     },
     {
       "name": "Tunisia",
-      "topLevelDomain": [".tn"],
+      "topLevelDomain": ".tn",
       "alpha2Code": "TN",
       "alpha3Code": "TUN",
       "callingCodes": ["216"],
@@ -15623,7 +15623,7 @@
     },
     {
       "name": "Turkey",
-      "topLevelDomain": [".tr"],
+      "topLevelDomain": ".tr",
       "alpha2Code": "TR",
       "alpha3Code": "TUR",
       "callingCodes": ["90"],
@@ -15683,7 +15683,7 @@
     },
     {
       "name": "Turkmenistan",
-      "topLevelDomain": [".tm"],
+      "topLevelDomain": ".tm",
       "alpha2Code": "TM",
       "alpha3Code": "TKM",
       "callingCodes": ["993"],
@@ -15744,7 +15744,7 @@
     },
     {
       "name": "Turks and Caicos Islands",
-      "topLevelDomain": [".tc"],
+      "topLevelDomain": ".tc",
       "alpha2Code": "TC",
       "alpha3Code": "TCA",
       "callingCodes": ["1"],
@@ -15796,7 +15796,7 @@
     },
     {
       "name": "Tuvalu",
-      "topLevelDomain": [".tv"],
+      "topLevelDomain": ".tv",
       "alpha2Code": "TV",
       "alpha3Code": "TUV",
       "callingCodes": ["688"],
@@ -15855,7 +15855,7 @@
     },
     {
       "name": "Uganda",
-      "topLevelDomain": [".ug"],
+      "topLevelDomain": ".ug",
       "alpha2Code": "UG",
       "alpha3Code": "UGA",
       "callingCodes": ["256"],
@@ -15929,7 +15929,7 @@
     },
     {
       "name": "Ukraine",
-      "topLevelDomain": [".ua"],
+      "topLevelDomain": ".ua",
       "alpha2Code": "UA",
       "alpha3Code": "UKR",
       "callingCodes": ["380"],
@@ -15984,7 +15984,7 @@
     },
     {
       "name": "United Arab Emirates",
-      "topLevelDomain": [".ae"],
+      "topLevelDomain": ".ae",
       "alpha2Code": "AE",
       "alpha3Code": "ARE",
       "callingCodes": ["971"],
@@ -16050,7 +16050,7 @@
     },
     {
       "name": "United Kingdom of Great Britain and Northern Ireland",
-      "topLevelDomain": [".uk"],
+      "topLevelDomain": ".uk",
       "alpha2Code": "GB",
       "alpha3Code": "GBR",
       "callingCodes": ["44"],
@@ -16115,7 +16115,7 @@
     },
     {
       "name": "United States of America",
-      "topLevelDomain": [".us"],
+      "topLevelDomain": ".us",
       "alpha2Code": "US",
       "alpha3Code": "USA",
       "callingCodes": ["1"],
@@ -16192,7 +16192,7 @@
     },
     {
       "name": "Uruguay",
-      "topLevelDomain": [".uy"],
+      "topLevelDomain": ".uy",
       "alpha2Code": "UY",
       "alpha3Code": "URY",
       "callingCodes": ["598"],
@@ -16264,7 +16264,7 @@
     },
     {
       "name": "Uzbekistan",
-      "topLevelDomain": [".uz"],
+      "topLevelDomain": ".uz",
       "alpha2Code": "UZ",
       "alpha3Code": "UZB",
       "callingCodes": ["998"],
@@ -16330,7 +16330,7 @@
     },
     {
       "name": "Vanuatu",
-      "topLevelDomain": [".vu"],
+      "topLevelDomain": ".vu",
       "alpha2Code": "VU",
       "alpha3Code": "VUT",
       "callingCodes": ["678"],
@@ -16401,7 +16401,7 @@
     },
     {
       "name": "Venezuela (Bolivarian Republic of)",
-      "topLevelDomain": [".ve"],
+      "topLevelDomain": ".ve",
       "alpha2Code": "VE",
       "alpha3Code": "VEN",
       "callingCodes": ["58"],
@@ -16473,7 +16473,7 @@
     },
     {
       "name": "Vietnam",
-      "topLevelDomain": [".vn"],
+      "topLevelDomain": ".vn",
       "alpha2Code": "VN",
       "alpha3Code": "VNM",
       "callingCodes": ["84"],
@@ -16538,7 +16538,7 @@
     },
     {
       "name": "Wallis and Futuna",
-      "topLevelDomain": [".wf"],
+      "topLevelDomain": ".wf",
       "alpha2Code": "WF",
       "alpha3Code": "WLF",
       "callingCodes": ["681"],
@@ -16594,7 +16594,7 @@
     },
     {
       "name": "Western Sahara",
-      "topLevelDomain": [".eh"],
+      "topLevelDomain": ".eh",
       "alpha2Code": "EH",
       "alpha3Code": "ESH",
       "callingCodes": ["212"],
@@ -16665,7 +16665,7 @@
     },
     {
       "name": "Yemen",
-      "topLevelDomain": [".ye"],
+      "topLevelDomain": ".ye",
       "alpha2Code": "YE",
       "alpha3Code": "YEM",
       "callingCodes": ["967"],
@@ -16731,7 +16731,7 @@
     },
     {
       "name": "Zambia",
-      "topLevelDomain": [".zm"],
+      "topLevelDomain": ".zm",
       "alpha2Code": "ZM",
       "alpha3Code": "ZMB",
       "callingCodes": ["260"],
@@ -16799,7 +16799,7 @@
     },
     {
       "name": "Zimbabwe",
-      "topLevelDomain": [".zw"],
+      "topLevelDomain": ".zw",
       "alpha2Code": "ZW",
       "alpha3Code": "ZWE",
       "callingCodes": ["263"],

@@ -1,14 +1,14 @@
-import { Component, Input } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { Country } from 'src/app/country';
 import { SharedDataService } from 'src/app/service/share-data.service';
 
 @Component({
-  selector: 'app-country',
-  templateUrl: './country.component.html',
-  styleUrls: ['./country.component.css'],
+  selector: 'app-view',
+  templateUrl: './view.component.html',
+  styleUrls: ['./view.component.css'],
 })
-export class CountryComponent {
-  @Input() pais: Country = {
+export class ViewComponent implements OnInit {
+  pais: Country = {
     name: '',
     population: 0,
     region: '',
@@ -23,7 +23,9 @@ export class CountryComponent {
 
   constructor(private sharedDataService: SharedDataService) {}
 
-  fuiClicado() {
-    this.sharedDataService.enviarPais(this.pais);
+  ngOnInit(): void {
+    this.sharedDataService.paisAtual.subscribe((pais) => {
+      this.pais = pais ?? this.pais;
+    });
   }
 }

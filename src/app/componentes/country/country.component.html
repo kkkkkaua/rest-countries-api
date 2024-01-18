@@ -1,10 +1,10 @@
-<div class="card">
+<div class="card" (click)="fuiClicado()" routerLink="/view">
   <img src="{{ pais.flags.png }}" alt="Bandeira de {{ pais.name }}" />
   <div class="container">
     <h2 class="card__nome">{{ pais.name }}</h2>
     <p class="card__paragrafo">
       <b class="card__paragrafo__titulo">Population:</b>
-      {{ pais.population.toLocaleString("pt-BR") }}
+      {{ pais.population.toLocaleString("PT-BR") }}
     </p>
     <p class="card__paragrafo">
       <b class="card__paragrafo__titulo">Region:</b> {{ pais.region }}
