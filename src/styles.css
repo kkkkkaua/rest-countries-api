@@ -24,7 +24,8 @@ body.dark-mode {
   label,
   header,
   .card,
-  .input {
+  .input,
+  body.dark-mode .btnVoltar {
     background-color: #2b3743;
   }
 
@@ -39,6 +40,11 @@ body.dark-mode {
   .input,
   label {
     border-radius: 5px;
+    color: white;
+  }
+
+  a {
+    background-color: #2b3743;
     color: white;
   }
 }

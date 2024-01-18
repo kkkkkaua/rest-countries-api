@@ -10,7 +10,8 @@
       <b class="card__paragrafo__titulo">Region:</b> {{ pais.region }}
     </p>
     <p class="card__paragrafo">
-      <b class="card__paragrafo__titulo">Capital:</b> {{ pais.capital }}
+      <b class="card__paragrafo__titulo">Capital:</b>
+      {{ pais.capital ? pais.capital : "no capital" }}
     </p>
   </div>
 </div>

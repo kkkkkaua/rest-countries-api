@@ -8,22 +8,17 @@ import { SharedDataService } from 'src/app/service/share-data.service';
   styleUrls: ['./view.component.css'],
 })
 export class ViewComponent implements OnInit {
-  pais: Country = {
-    name: '',
-    population: 0,
-    region: '',
-    capital: '',
-    flags: {
-      png: '',
-    },
-    nativeName: '',
-    subregion: '',
-    topLevelDomain: '',
-    demonym: '',
-    numericCode: ''
-  };
+  pais!: Country;
 
   constructor(private sharedDataService: SharedDataService) {}
+
+  montaStringBorders(): string {
+    try {
+      return this.pais.borders.join(', ');
+    } catch {
+      return 'no border country.';
+    }
+  }
 
   ngOnInit(): void {
     this.sharedDataService.paisAtual.subscribe((pais) => {

@@ -11,4 +11,6 @@ export interface Country {
   topLevelDomain: string;
   demonym: string;
   numericCode: string;
+  borders: string[];
+  alpha3Code: string;
 }

@@ -20,6 +20,10 @@ label {
   padding-right: 15px;
 }
 
+option {
+  margin-inline: 10px;
+}
+
 select {
   padding: 15px 15px;
   border-radius: 5px;

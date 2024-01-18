@@ -1,39 +1,45 @@
-<div class="container">
-  <div class="view">
-    <a href="" class="btnVoltar" routerLink="/countries">Back</a>
+<div class="view">
+  <a href="" routerLink="/countries">⬅ Back</a>
+
+  <div class="container">
     <img src="{{ pais.flags.png }}" alt="Bandeira de {{ pais.name }}" />
-  </div>
 
-  <div class="container container__content">
-    <h3 class="pais__nome">{{ pais.name }}</h3>
-    <div class="div">
-      <div class="block__content">
-        <p class="card__paragrafo__titulo">
-          <b>Native name:</b> {{ pais.nativeName }}
-        </p>
-        <p class="card__paragrafo__titulo">
-          <b>Population:</b> {{ pais.population.toLocaleString("pt-BR") }}
-        </p>
-        <p class="card__paragrafo__titulo"><b>Region:</b> {{ pais.region }}</p>
-        <p class="card__paragrafo__titulo">
-          <b>Subregion:</b> {{ pais.subregion }}
-        </p>
-        <p class="card__paragrafo__titulo">
-          <b>Capital:</b> {{ pais.capital }}
-        </p>
+    <div class="container container__content">
+      <h3 class="pais__nome">{{ pais.name }}</h3>
+      <div class="div">
+        <div class="block__content">
+          <p class="card__paragrafo__titulo">
+            <b>Native name:</b> {{ pais.nativeName }}
+          </p>
+          <p class="card__paragrafo__titulo">
+            <b>Population:</b> {{ pais.population.toLocaleString("pt-BR") }}
+          </p>
+          <p class="card__paragrafo__titulo">
+            <b>Region:</b> {{ pais.region }}
+          </p>
+          <p class="card__paragrafo__titulo">
+            <b>Subregion:</b> {{ pais.subregion }}
+          </p>
+          <p class="card__paragrafo__titulo">
+            <b>Capital:</b> {{ pais.capital ? pais.capital : "no capital" }}
+          </p>
+        </div>
+
+        <div class="block__content">
+          <p class="card__paragrafo__titulo">
+            <b>Top Level Domain: </b>
+            {{ pais.topLevelDomain }}
+          </p>
+          <p class="card__paragrafo__titulo">
+            <b>Demonym: </b>{{ pais.demonym }}
+          </p>
+          <p class="card__paragrafo__titulo">
+            <b>Acronym: </b>{{ pais.alpha3Code }}
+          </p>
+        </div>
       </div>
-
-      <div class="block__content">
-        <p class="card__paragrafo__titulo">
-          <b>Top Level Domain: </b>
-          {{ pais.topLevelDomain }}
-        </p>
-        <p class="card__paragrafo__titulo">
-          <b>Demonym: </b>{{ pais.demonym }}
-        </p>
-        <p class="card__paragrafo__titulo">
-          <b>Numeric Code: </b>{{ pais.numericCode }}
-        </p>
+      <div>
+        <p><b>Border countries: </b>{{ this.montaStringBorders() }}</p>
       </div>
     </div>
   </div>

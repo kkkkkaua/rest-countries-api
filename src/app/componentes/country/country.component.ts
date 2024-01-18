@@ -8,20 +8,7 @@ import { SharedDataService } from 'src/app/service/share-data.service';
   styleUrls: ['./country.component.css'],
 })
 export class CountryComponent {
-  @Input() pais: Country = {
-    name: '',
-    population: 0,
-    region: '',
-    capital: '',
-    flags: {
-      png: '',
-    },
-    nativeName: '',
-    subregion: '',
-    topLevelDomain: '',
-    demonym: '',
-    numericCode: ''
-  };
+  @Input() pais!: Country;
 
   constructor(private sharedDataService: SharedDataService) {}
 

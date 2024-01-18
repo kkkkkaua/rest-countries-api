@@ -11,5 +11,6 @@ export class SharedDataService {
 
   enviarPais(pais: Country) {
     this.paisSource.next(pais);
+    console.log(pais.borders);
   }
 }
