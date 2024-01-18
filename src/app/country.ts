@@ -9,4 +9,6 @@ export interface Country {
   nativeName: string;
   subregion: string;
   topLevelDomain: string;
+  demonym: string;
+  numericCode: string;
 }

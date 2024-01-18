@@ -6,31 +6,51 @@
   box-sizing: border-box;
 }
 
-hr {
-  opacity: 0.5;
-}
-
 .flex-center {
   display: flex;
   align-items: center;
   justify-content: center;
 }
+body.dark-mode {
+  background-color: #212e37;
 
-body.dark-mode,
-body.dark-mode select,
-body.dark-mode .input {
-  background-color: black;
+  select {
+    background-color: #2b3743;
+    color: white;
+  }
+
   color: white;
+
+  label,
+  header,
+  .card,
+  .input {
+    background-color: #2b3743;
+  }
+
+  header {
+    box-shadow: 20px 0px 3px black;
+  }
+
+  .card {
+    border-radius: 10px;
+  }
+
+  .input,
+  label {
+    border-radius: 5px;
+    color: white;
+  }
 }
 
 body.dark-mode .input::placeholder {
   color: white;
 }
 
-body.dark-mode .card__paragrafo__titulo {
-  color: gray;
+body.dark-mode .card__paragrafo__titulo b {
+  color: #e5f2fb;
 }
 
-body.dark-mode select {
-  background-color: #474a51;
+body.dark-mode .card__paragrafo__titulo {
+  color: #c7d4dd;
 }

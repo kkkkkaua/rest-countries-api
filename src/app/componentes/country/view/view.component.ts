@@ -19,6 +19,8 @@ export class ViewComponent implements OnInit {
     nativeName: '',
     subregion: '',
     topLevelDomain: '',
+    demonym: '',
+    numericCode: ''
   };
 
   constructor(private sharedDataService: SharedDataService) {}

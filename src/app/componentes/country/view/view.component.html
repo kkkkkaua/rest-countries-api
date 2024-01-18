@@ -1,12 +1,13 @@
-<div>
-  <a href="" class="btnVoltar" routerLink="/countries">Back</a>
-
-  <div class="container">
+<div class="container">
+  <div class="view">
+    <a href="" class="btnVoltar" routerLink="/countries">Back</a>
     <img src="{{ pais.flags.png }}" alt="Bandeira de {{ pais.name }}" />
+  </div>
 
-    <div class="container container__content">
-      <div>
-        <h3 class="pais__nome">{{ pais.name }}</h3>
+  <div class="container container__content">
+    <h3 class="pais__nome">{{ pais.name }}</h3>
+    <div class="div">
+      <div class="block__content">
         <p class="card__paragrafo__titulo">
           <b>Native name:</b> {{ pais.nativeName }}
         </p>
@@ -22,13 +23,17 @@
         </p>
       </div>
 
-      <div>
+      <div class="block__content">
         <p class="card__paragrafo__titulo">
           <b>Top Level Domain: </b>
           {{ pais.topLevelDomain }}
         </p>
-        <p class="card__paragrafo__titulo"><b>Main currency: </b>...</p>
-        <p class="card__paragrafo__titulo"><b>Main language:</b> ...</p>
+        <p class="card__paragrafo__titulo">
+          <b>Demonym: </b>{{ pais.demonym }}
+        </p>
+        <p class="card__paragrafo__titulo">
+          <b>Numeric Code: </b>{{ pais.numericCode }}
+        </p>
       </div>
     </div>
   </div>

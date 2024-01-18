@@ -19,6 +19,8 @@ export class CountryComponent {
     nativeName: '',
     subregion: '',
     topLevelDomain: '',
+    demonym: '',
+    numericCode: ''
   };
 
   constructor(private sharedDataService: SharedDataService) {}

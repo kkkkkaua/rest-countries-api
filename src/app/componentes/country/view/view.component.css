@@ -1,21 +1,53 @@
 .container {
   display: flex;
-  justify-content: center;
-  min-height: 1000px;
+  justify-content: space-around;
+  margin-inline: 100px;
+
+  &.container__content {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+
+    p {
+      margin-bottom: 10px;
+    }
+  }
+}
+
+.view {
+  display: flex;
+  flex-direction: column;
 }
 
 img {
-  height: 300px;
-  width: 450px;
+  height: 250px;
+  width: 380px;
 }
 
-.content {
-  display: flex;
-  width: 100vw;
-  justify-content: space-between;
-  align-items: center;
+.pais__nome {
+  font-size: 24px;
+  margin-bottom: -80px;
 }
 
-body.dark-mode p {
+body.dark-mode p.card__paragrafo__titulo b {
   color: white;
+}
+
+.block__content {
+  width: 200px;
+}
+
+.div {
+  display: flex;
+}
+
+.btnVoltar {
+  background-color: gray;
+  color: white;
+  text-decoration: none;
+  text-transform: capitalize;
+  padding: 15px 25px;
+  text-align: center;
+  width: fit-content;
+  margin-bottom: 30px;
 }
