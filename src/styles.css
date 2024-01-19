@@ -30,8 +30,23 @@ body.dark-mode {
     background-color: #2b3743;
   }
 
-  header {
-    box-shadow: 20px 0px 3px black;
+  header::after {
+    content: "";
+    height: 1px;
+    width: 100%;
+    background-color: black;
+    position: absolute;
+    top: 74px;
+    left: 1px;
+  }
+
+  footer::before {
+    content: "";
+    height: 1px;
+    width: 100%;
+    background-color: black;
+    position: absolute;
+    top: 5px;
   }
 
   .input,

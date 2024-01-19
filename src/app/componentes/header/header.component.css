@@ -3,6 +3,7 @@
   justify-content: space-between;
   padding-inline: 70px;
   margin-bottom: 30px;
+  position: relative;
 }
 
 span.luaAtiva,

@@ -2,6 +2,7 @@
   display: flex;
   justify-content: space-around;
   margin-inline: 100px;
+  margin-bottom: 110px;
 
   &.container__content {
     display: flex;
@@ -17,6 +18,7 @@
 .view {
   display: flex;
   flex-direction: column;
+  margin-bottom: 5px;
 }
 
 img {

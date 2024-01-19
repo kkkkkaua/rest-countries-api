@@ -7,6 +7,7 @@ import { HeaderComponent } from './componentes/header/header.component';
 import { MainComponent } from './componentes/main/main.component';
 import { CountryComponent } from './componentes/country/country.component';
 import { ViewComponent } from './componentes/country/view/view.component';
+import { FooterComponent } from './componentes/footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -15,6 +16,7 @@ import { ViewComponent } from './componentes/country/view/view.component';
     MainComponent,
     CountryComponent,
     ViewComponent,
+    FooterComponent,
   ],
   imports: [BrowserModule, AppRoutingModule, HttpClientModule],
   providers: [],
